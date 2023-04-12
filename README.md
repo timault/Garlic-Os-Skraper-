@@ -8,5 +8,4 @@ Full screen images with a dark gradient
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/GarlicOS_004.png?raw=true)
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/GarlicOS_005.png?raw=true)
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/GarlicOS_006.png?raw=true)
-![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/GarlicOS_007.png?raw=true)
-![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/GarlicOS_008.png?raw=true)
+
