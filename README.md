@@ -15,3 +15,9 @@ Instructions:
 Simply download the .xml and BlackGradientShadow.png to the same folder.
 Select this as the Skraper user provided mix.
 Scrape!
+
+
+I suggest changing the settings.json in Garlic to :
+
+"text-alignment": "left",
+"text-margin": 32,
