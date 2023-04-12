@@ -1,0 +1,14 @@
+﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Information ShortName="Dark Screenshot" LongName="Dark Screenshot" Description="Gradient Screenshot Fullscreen"  Author="Tma84"/>
+	<Viewport Color="#00000000" Width="640" Height="480"/>
+	<Drawings>
+		<Item Type="Screenshot">
+			<Display X="105%" Y="50%" Width="1000%" Height="100%" KeepRatio="true" Anchor="VCenterRight" Antialiasing="None" Transparency="0.0"/>
+			<Children Reference="Parent">
+				<Item Type="LocalFile" LocalFilePath="BlackGradientShadow.png">
+					<Display X="90%" Y="50%" Width="640" Height="480" KeepRatio="false" Anchor="VCenterRight" Antialiasing="Medium" Transparency="0.0"/>
+				</Item>
+			</Children>
+		</Item>
+	</Drawings>
+</ImageComposition>
