@@ -1,4 +1,4 @@
-# Garlic-Os-Skraper-
+# Garlic-Os-Skraper-Mix
 Full screen images with a dark gradient
 
 
