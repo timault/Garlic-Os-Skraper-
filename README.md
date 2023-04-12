@@ -20,4 +20,5 @@ Scrape!
 I suggest changing the settings.json in Garlic to :
 
 "text-alignment": "left",
+
 "text-margin": 32,
