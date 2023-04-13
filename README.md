@@ -12,7 +12,8 @@ Full screen images with a dark gradient
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/GarlicOS_006.png?raw=true)
 
 Instructions: 
-Simply download the .xml and .png to the same folder.
+
+Simply download the .xml and .png from either Black Gradient Shadow folder.
 
 Select this as the Skraper user provided mix.
 Scrape!
