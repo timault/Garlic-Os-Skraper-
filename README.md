@@ -1,6 +1,6 @@
 # Garlic-Os-Skraper-Mix
 **Black Gradient Shadow**
-
+---
 
 
 
@@ -13,6 +13,7 @@
 
 
 **Black Gradient Shadow Border(With Wheel Art)**
+---
 
 
 
