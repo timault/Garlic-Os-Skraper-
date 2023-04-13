@@ -1,5 +1,5 @@
 # Garlic-Os-Skraper-Mix
-Black Gradient Shadow
+**Black Gradient Shadow**
 
 
 
@@ -12,7 +12,7 @@ Black Gradient Shadow
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/GarlicOS_006.png?raw=true)
 
 
-Black Gradient Shadow Border(With Wheel Art)
+**Black Gradient Shadow Border(With Wheel Art)**
 
 
 
