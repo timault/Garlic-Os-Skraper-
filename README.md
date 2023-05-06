@@ -24,7 +24,7 @@
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/GarlicOS_010.png?raw=true)
 
 
-**Black Gradient 3d Boxart (With Wheel Art)**
+**Black Gradient 3d Boxart**
 ---
 
 
