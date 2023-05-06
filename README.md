@@ -24,6 +24,15 @@
 ![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/GarlicOS_010.png?raw=true)
 
 
+**Black Gradient 3d Boxart (With Wheel Art)**
+---
+
+
+![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/Castlevania - Bloodlines (USA).png?raw=true)
+![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/Ecco the Dolphin (USA, Europe, Korea).png?raw=true)
+![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/Monster World IV (USA) (Genesis Mini).png?raw=true)
+![alt text](https://github.com/timault/Garlic-Os-Skraper-/blob/main/Screenshots/Sonic The Hedgehog 2 (World) (Rev B).png?raw=true)
+
 Instructions: 
 
 Simply download the .xml and .png from either Black Gradient Shadow folder.
